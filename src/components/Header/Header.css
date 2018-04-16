@@ -1,0 +1,15 @@
+/* ul{
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    text-align: center; 
+    vertical-align: center; 
+    line-height: 30px; 
+} */
+
+li {
+    float: left; 
+    display:block; 
+    padding: 10px 50px; 
+    
+}
