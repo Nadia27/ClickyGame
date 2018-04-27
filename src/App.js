@@ -18,7 +18,7 @@ function randomImages(array) {
   }
   return array;
 };
-// testing
+//fileTest
 class App extends Component {
 
   state = {
