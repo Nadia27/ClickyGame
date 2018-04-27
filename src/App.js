@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import logo from './logo.svg';
 import ImageCard from "./components/ImageCard";
 import Nav from "./components/Nav";
 import Wrapper from "./components/Wrapper";
@@ -8,7 +7,7 @@ import Container from "./components/Container";
 import Column from "./components/Column";
 import Row from "./components/Row";
 import images from "./image.json";
-//import './App.css';
+
 
 // Shuffle images
 function randomImages(array) {
