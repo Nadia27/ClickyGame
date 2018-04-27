@@ -13,7 +13,7 @@ class App extends Component {
   <Wrapper>
     <Header />
     <Jumbotron />
-          <Cards image={.image}/> 
+         
   </Wrapper> 
   </div>
     );
