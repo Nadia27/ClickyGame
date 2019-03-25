@@ -1,81 +1,81 @@
 [
     {
-        "id": 1, 
+        "id": 1,
         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Reasonable_Doubt_New.jpg/220px-Reasonable_Doubt_New.jpg",
         "clicked": false
     },
     {
-        "id": 2, 
+        "id": 2,
         "image":"https://upload.wikimedia.org/wikipedia/en/5/55/LaurynHillTheMiseducationofLaurynHillalbumcover.jpg",
         "clicked": false
     },
     {
-        "id": 3, 
-        "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/DeLaSoul3FeetHighandRisingalbumcover.jpg", 
+        "id": 3,
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/DeLaSoul3FeetHighandRisingalbumcover.jpg",
         "clicked":false
-    }, 
+    },
     {
-        "id": 4, 
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/4-44_album_cover.png/330px-4-44_album_cover.png", 
+        "id": 4,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/4-44_album_cover.png/330px-4-44_album_cover.png",
         "clicked": false
     },
     {
-        "id": 5, 
+        "id": 5,
         "image": "https://upload.wikimedia.org/wikipedia/en/1/16/Alleyezonme.jpg",
         "clicked": false
     },
     {
-        "id": 6, 
-        "image":"https://upload.wikimedia.org/wikipedia/en/2/2a/2014ForestHillsDrive.jpg", 
+        "id": 6,
+        "image":"https://upload.wikimedia.org/wikipedia/en/2/2a/2014ForestHillsDrive.jpg",
         "clicked": false
-    }, 
+    },
     {
-        "id": 7, 
+        "id": 7,
         "image": "https://upload.wikimedia.org/wikipedia/en/1/19/Dr.DreTheChronic.jpg",
         "clicked":false
     },
     {
-        "id": 8, 
-        "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/N.W.A.StraightOuttaComptonalbumcover.jpg",
+        "id": 8,
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/84/StraightOuttaComptonN.W.A..jpg",
         "clicked": false
     },
     {
-        "id": 9, 
+        "id": 9,
         "image": "https://upload.wikimedia.org/wikipedia/en/a/ae/The_Marshall_Mathers_LP.jpg",
         "clicked": false
     },
     {
-        "id": 10, 
-        "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/Outkast-atliens.jpg", 
+        "id": 10,
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/Outkast-atliens.jpg",
         "clicked": false
     },
     {
-        "id": 11, 
+        "id": 11,
         "image": "https://upload.wikimedia.org/wikipedia/en/3/35/Goodie-mob-soul-food-1995.jpg",
         "clicked": false
-    }, 
+    },
     {
-        "id": 12, 
-        "image": "https://upload.wikimedia.org/wikipedia/en/7/77/AmplifiedQTip.jpg", 
+        "id": 12,
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/77/AmplifiedQTip.jpg",
         "clicked": false
-    }, 
+    },
     {
-        "id": 13, 
+        "id": 13,
         "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/RuffRyder%27sFirstLady.jpg",
         "clicked": false
     },
     {
-        "id": 14, 
+        "id": 14,
         "image": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg",
         "clicked": false
     },
     {
-        "id": 15, 
+        "id": 15,
         "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Lil_Wayne_-_Tha_Carter.jpg",
         "clicked": false
     },
     {
-        "id": 16, 
+        "id": 16,
         "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kanyewest_collegedropout.jpg",
         "clicked": false
     }
